@@ -5,5 +5,5 @@ A knights tour is a sequence of L-shaped knight moves on an m by n chessboard su
 ![Open Knight's Tour example](https://upload.wikimedia.org/wikipedia/commons/d/da/Knight%27s_tour_anim_2.gif)
 [Source](https://en.wikipedia.org/wiki/Knight%27s_tour)
 
-#### Reference:
+### Reference:
 [Wikipedia](https://en.wikipedia.org/wiki/Knight%27s_tour)
