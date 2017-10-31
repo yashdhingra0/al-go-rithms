@@ -25,7 +25,7 @@ bool check_forwards(int row, int col){
 	}
 	return false;
 }
-// check positions by order of decreasing colum
+// check positions by order of 
 bool check_backwards(int row, int col){
 	int tmp_row = row; int tmp_col = col;
 	while((row >= 0) && (col >= 0)){
