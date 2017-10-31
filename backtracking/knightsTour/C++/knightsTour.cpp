@@ -29,7 +29,7 @@ public:
 void knightsTour::traverse(const int& currentX, const int& currentY, const int& count){
   // Base cases: stopping conditions for recursion
 
-  // Already completed traversal for this instance from it's starting point
+  // Already completed traversal for this instance fros starting point
   if(complete) return;
 
   // Illegal positions (out of range)
